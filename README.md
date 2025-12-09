@@ -83,7 +83,7 @@ If you're looking for a reliable **Flutter developer** who delivers clean, profe
 
 ### 📬 **Contact**
 - ✉️ Email: **hachers999@gmail.com**  
-- 🌐 Upwork: *soon poplishing *  
+- 🌐 Upwork: *https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~018d580d1e432194d4?mp_source=share*  
 - 📍 Location: Yemen  
 - 💼 Open to remote opportunities and freelance projects  
 
