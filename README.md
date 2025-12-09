@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [afeef]</h1>
+<h1 align="center">Hi 👋, I'm afeef</h1>
 <h3 align="center">Flutter Developer | Mobile App Specialist | Freelancer</h3>
 
 <p align="center">
