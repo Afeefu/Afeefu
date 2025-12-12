@@ -72,8 +72,8 @@ Here are some of my best work samples (**ideal for Upwork clients**):
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Afeefu]&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Afeefu]&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afeefu&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afeefu&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
